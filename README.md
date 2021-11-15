@@ -11,8 +11,8 @@ El repositorio se compondrá de:
 
 ## Webs externas para el contenido
 
-*[Datos sobre los personajes](https://en.m.wikipedia.org/wiki/The_Office_(American_TV_series))
-*[Números de teléfono](https://www.randomphonenumbers.com/Generator/us_phone_number?state=PA&city=Scranton)
+*[Datos sobre los personajes](https://en.m.wikipedia.org/wiki/The_Office_(American_TV_series))__
+*[Números de teléfono](https://www.randomphonenumbers.com/Generator/us_phone_number?state=PA&city=Scranton)__
 *[MongoDB](https://docs.mongodb.com/manual/)
 
 ## Hecho por
