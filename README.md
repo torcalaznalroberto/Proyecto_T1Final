@@ -6,6 +6,6 @@ En este repositorio encontrará una base de datos de empleados fielmente basada 
 El repositorio se compondrá de:
 
 > 1. Una carpeta scr con mi base de datos y la hoja de consultas.
+   
 > 2. Una carpeta doc con un documento que explica aspectos teóricos y técnicos sobre mi proyecto.
-
-Además de lo visto en clase, mi aportación personal es:
+  
